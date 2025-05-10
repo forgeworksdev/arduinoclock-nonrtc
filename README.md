@@ -4,7 +4,8 @@
 This clock uses the 12h format. It has buttons so that the user can adjust the time, and allows the user to print a scrolling message.
 
 ### 📷 Screenshots  
- 
+
+![image](https://github.com/user-attachments/assets/0a2829dc-3472-48fd-9baa-858a57d77f97)
 
 ---
 
